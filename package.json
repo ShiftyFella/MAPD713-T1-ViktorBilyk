@@ -1,0 +1,24 @@
+{
+  "name": "MAPD713-T1-ViktorBilyk",
+  "version": "1.0.0",
+  "description": "MAPD 713 Test 1 - Individual assessment Student #300964200 - Viktor Bilyk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShiftyFella/MAPD713-T1-ViktorBilyk.git"
+  },
+  "keywords": [],
+  "author": "Viktor Bilyk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShiftyFella/MAPD713-T1-ViktorBilyk/issues"
+  },
+  "homepage": "https://github.com/ShiftyFella/MAPD713-T1-ViktorBilyk#readme",
+  "dependencies": {
+    "restify": "4.1.1",
+    "save": "2.3.0"
+  }
+}
