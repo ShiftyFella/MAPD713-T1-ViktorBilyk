@@ -3,7 +3,7 @@
 //Viktor Bilyk
 
 //intial params
-var SERVER_NAME = 'Product Engine BackEnd';
+var SERVER_NAME = 'Games store Engine BackEnd';
 var PORT = 3002;
 var HOST = '127.0.0.1';
 
